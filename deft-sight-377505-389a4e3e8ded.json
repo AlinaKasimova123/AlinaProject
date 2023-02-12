@@ -1,12 +1,12 @@
 {
-  "type": "service_account",
-  "project_id": "deft-sight-377505",
-  "private_key_id": "389a4e3e8ded7a1c909cdcbeb4d531c5100a29cb",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC80abkc0XCBF49\nuItzJF9q8m8lLZkT+WBM7N9nvkbXe/posq1FMWkta5vdUvtxmJihwNWnKakc7IaT\nnCMB9zosRatPpyVBW8eXZmM/Rc5I5kDCw6Y+cxBP+TQ9ZhCW6KkMZzArdIJsDf/g\n/a+OdPU913VCeBsBDyWVOXwkj+6QuyOKYWSfhw4f50Oupapl3GCmSo1YSJAwRo16\n7Hl2RK3MEt0eXxOXAqmfgBa5J7xmgOQUyhctwEFMCINt+B37jhwMABKD1/8OJdln\nlHpqMNwOa/TEhlLedVdKT7HhNN1Bu/kZOI8UsX/PRU19Ih0zqIxIjhgsBa1P4RPS\nzVBrmycbAgMBAAECggEAU1DXKXrLzx6KTwW9UqM8Dz7GWEtUfoHNQmRK98X4EGE+\nTzB4UE3LMSWIcxKIrMk+oDEslURGwOKFR2Df+aATZTGgs9b3E23iFiYxqNuueHBR\nJx+ZnXi8O+2kZWtB6rTi0vw9Pw979R4ASFDoRB3LkOwfa6L/l2oNlVj2NFPmWqnW\nTwFTmLpyTkEBDoKY88SPnMQarvVjESIKIUUI979brw0GNkWPO8AbczgAinnQ/MCL\n2GBZEanTfImTW+/YnzixTMSTuHFjI+NDyxNyVuZNs5jQV4Hg53K3vLROyuEU3p2n\ng1pmKx1h6SwBYUxmWArV5siiXaOBaOgVO/Y7h8FoAQKBgQDqCgnOcNKH50OrQQc/\nyuHvqyfPiLEYfYEZiPhlxrymkeYqryOMwTw0cpUdpfq5blqNouEjCL/KsM5tRr/4\nS14006Mu+kG73cKc4QuxklK5DjJArzVnofMd71kKeAS3dzGZcKpwEnoMlDGiuXkT\nmY9glu0nZoUxgu+7zHfAnMnlGwKBgQDOiVt5+j6Cfzfde6BwiI0rjAmxg5mlJJ+2\nPVmGmnoZaCqhzD16iTk/ci+DFT6CVfTLCyEenopS5ETw1bqqTwbgJJHJqTvvHP8v\n3P7mvosln0RYR13pMEKQL9nRCwhiRmJOOkCYGVx/g2dIs39Tv2AHDCISg+e2qrSP\nfq5yT6HmAQKBgQDlnkGuzJySAAExRVTCbuArD+a4RClUmNYP4oWq/UhbuKt0125u\ni6vw3TaV5yHNyoqHifWPNOdPCxcMuaxhBDkCZV4mGhxiIJnu5xFc/+2vaFE/i2c/\nLPJlPU5D6iregdAk9hgSat5Z9w+X0pcK9s9n+cvlqz0krY1d2KbpUCr5XwKBgAkV\nHUK18H3InmpM/3czahHaLKrzwJP0kllvRTqYHHp1jDplQubalfvmR5SaII+WvBcZ\nvDEeg7K1exqkK3tF0mWU9hxKJuqS+d3e+A6pnnDfGiBPsx+IEcVJdWit9YZs1fHe\nuex2YQzyeF5IFndWWSC2NeFej5gG1b3hskYwnkwBAoGAdVT1FvRabBeJpObBtx/n\n8P5d2EzsboB8MzJlk4lMUYSo7lZ5A0e4hlKeQLEK41MjgBwvhOxgIxd+UCr50s02\n+GljEbCb8mMTGiF/f2G3/U7Wy/2uKgBNsfeSALPMFCbm6POK5X/vfu9qvRye4OwV\nGNvGXXSVtEY3nqWXAU+wdY8=\n-----END PRIVATE KEY-----\n",
-  "client_email": "new-service-account@deft-sight-377505.iam.gserviceaccount.com",
-  "client_id": "104365642737877193126",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/new-service-account%40deft-sight-377505.iam.gserviceaccount.com"
+  "type": "",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
